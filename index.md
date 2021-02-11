@@ -1,37 +1,33 @@
-## Staff Information
+## Rules
+1.  ### Be respectful and kind.
 
-You can use the [editor on GitHub](https://github.com/Project-Cepi/Staff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Treat everyone with respect and kindness.
+Try not to take jokes too far or hurt anyone's feelings.
+We're all friends here and should get along well.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+2.  ### Do not share unpublished information.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Never share any unpublished information about the server,
+such as new content, plans, private staff conversations,
+etc. If you want to share something, you must get permission from an ADMIN.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+3.  ### Act mature and professional.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+We like to have fun here, but remember to be professional when needed
+and especially when interacting with the public. Use common sense.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Project-Cepi/Staff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+4.  ### Be responsible.
+
+
+Be a good team member and let managers know when certain things occur.
+Do not use commands that you are unfamiliar with,
+and ask for help and clarity when confused.
